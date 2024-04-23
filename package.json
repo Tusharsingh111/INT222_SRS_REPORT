@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve":"nodemon index.js"
   },
-  "author": "Hritik Jaiswal",
+  "author": "Tushar Singh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
